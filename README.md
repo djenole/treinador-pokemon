@@ -18,8 +18,8 @@ Projeto de treinamento utilizando VueJS e consumindo API pokemon
 
 ### Desafios
 
-- [ ] Criar a aplicação VueJS --
-- [ ] Consumir a API pokemon -- 
+- [X] Criar a aplicação VueJS --
+- [x] Consumir a API pokemon --Djenole
 - [ ] Criar card component -- 
 - [ ] Renderizar o card component no template root -- 
 - [ ] Retornar o JSON no card component. -- 
